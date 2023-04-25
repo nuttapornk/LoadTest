@@ -12,6 +12,6 @@ docker compose up -d
 ```
 
 ## Run load test
-```shell
-docker compose run k6 run scripts/sample.js
+```docker
+docker compose run k6 run /scripts/sample.js
 ```
