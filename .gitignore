@@ -1,3 +1,3 @@
-/grafana_data
-/influxdb_data
 /.vs
+/grafana_data/
+/influxdb_data/
